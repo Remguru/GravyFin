@@ -2,7 +2,9 @@
 GravyFin is a deliberately barebones Jellyfin client for Apple TV.
 
 
-GravyFin Privacy Policy
+
+
+# GravyFin Privacy Policy
 
 Effective Date: September 22, 2026
 
